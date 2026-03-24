@@ -117,4 +117,3 @@ if st.sidebar.button("Run Stochastic Simulation", type="primary"):
             st.write(f"Mean Diluted Ownership at Exit: {np.mean(final_stakes):.2%}")
             st.info("The simulation uses a Log-Normal distribution for exit multiples to account for extreme 'Outlier' valuations common in tech.")
 
-else:
