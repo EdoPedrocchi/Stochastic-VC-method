@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "source": "Initial Baseline Configuration",
+    "unit": "EV/Revenue",
+    "last_updated": "2026-03-24"
+  },
+  "sectors": {
+    "SaaS": {
+      "mean": 8.0,
+      "std_dev": 2.5,
+      "description": "Software as a Service / Cloud Computing"
+    },
+    "Fintech": {
+      "mean": 8.0,
+      "std_dev": 2.5,
+      "description": "Financial Technology and Payments"
+    },
+    "Biotech": {
+      "mean": 8.0,
+      "std_dev": 2.5,
+      "description": "Life Sciences and Therapeutics"
+    },
+    "AI_ML": {
+      "mean": 8.0,
+      "std_dev": 2.5,
+      "description": "Artificial Intelligence and Machine Learning Infrastructure"
+    },
+    "Consumer_Tech": {
+      "mean": 8.0,
+      "std_dev": 2.5,
+      "description": "B2C Apps and E-commerce Platforms"
+    },
+    "DeepTech": {
+      "mean": 8.0,
+      "std_dev": 2.5,
+      "description": "Hard Tech, Robotics, and Semiconductors"
+    }
+  }
+}
